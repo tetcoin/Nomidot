@@ -1,6 +1,6 @@
-# Nomidot (tentative name)
+# Nomitet (tentative name)
 
-Nominating on Polkadot/Kusama can be complicated. Nomidot is a dashboard for those with DOTs or KSM looking to "set it and forget it."
+Nominating on Tetcoin/Polkadot/Kusama can be complicated. Nomidot is a dashboard for those with DOTs or KSM looking to "set it and forget it."
 
 We do not hold any keys, however, so it is still the user's responsibility to keep safe custody of keys.
 
